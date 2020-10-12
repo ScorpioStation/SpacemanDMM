@@ -1,0 +1,12 @@
+/.git
+/.vscode
+/scripts
+/.appveyor.yml
+/.dockerignore
+/.editorconfig
+/.gitignore
+/.travis.yml
+/CONFIGURING.md
+/docker-build-spacemandmm
+/Dockerfile
+/dockerfile

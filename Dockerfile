@@ -1,7 +1,7 @@
 FROM rust:slim-buster
 
-COPY . .
+COPY . /spacemandmm
 
-WORKDIR /usr/src/myapp
+WORKDIR /spacemandmm
 
 RUN cargo build -p cli --release
