@@ -1,4 +1,8 @@
 # SpacemanDMM
+----
+This version of SpacemanDMM is forked from the original repository at:
+https://github.com/SpaceManiac/SpacemanDMM
+----
 
 **SpacemanDMM** is a suite of tools for working with [DreamMaker] codebases
 and map files. It features a full-size fancy map renderer, a [language server],
@@ -122,4 +126,3 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with SpacemanDMM. If not, see http://www.gnu.org/licenses/.
-

@@ -1,0 +1,4 @@
+#!/bin/bash
+GIT_HASH="$(git log | head -1 | awk -e '{print $2}' | head -c 12)"
+docker build -t spacemandmm:${GIT_HASH} -f Dockerfile .
+docker image tag spacemandmm:${GIT_HASH} spacemandmm:latest
