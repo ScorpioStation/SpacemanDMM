@@ -1,12 +1,13 @@
 # SpacemanDMM
-----
-This version of SpacemanDMM is forked from the original repository at:
-https://github.com/SpaceManiac/SpacemanDMM
-----
 
 **SpacemanDMM** is a suite of tools for working with [DreamMaker] codebases
 and map files. It features a full-size fancy map renderer, a [language server],
 and a documentation generator for DM codebases.
+
+----
+This version of SpacemanDMM is forked from the original repository at:
+https://github.com/SpaceManiac/SpacemanDMM
+----
 
 Language server updates are released to the editor extensions on a regular
 basis and binaries are occasionally posted to the [releases] page.
